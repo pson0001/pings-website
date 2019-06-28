@@ -52,12 +52,12 @@ self.__precacheManifest = [
     "url": "/pings-website/static/media/beer.f7adcbef.jpg"
   },
   {
-    "revision": "7cf2139131cf4e1288358d492c2b211a",
-    "url": "/pings-website/static/media/info.7cf21391.svg"
-  },
-  {
     "revision": "85ee5b8e65479414365ae3f844219798",
     "url": "/pings-website/static/media/hero-sen.85ee5b8e.svg"
+  },
+  {
+    "revision": "7cf2139131cf4e1288358d492c2b211a",
+    "url": "/pings-website/static/media/info.7cf21391.svg"
   },
   {
     "revision": "ba7c6346cb863f6855454a95dcd63e30",
