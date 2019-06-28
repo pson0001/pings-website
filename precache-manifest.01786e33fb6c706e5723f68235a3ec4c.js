@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "d0d479395598a8bee7b2",
+    "revision": "f8003a84756924c70fe3",
     "url": "/pings-website/static/css/main.44fd8a96.chunk.css"
   },
   {
-    "revision": "d0d479395598a8bee7b2",
-    "url": "/pings-website/static/js/main.d0d47939.chunk.js"
+    "revision": "f8003a84756924c70fe3",
+    "url": "/pings-website/static/js/main.f8003a84.chunk.js"
   },
   {
     "revision": "611d42506ad5e9804750",
@@ -216,7 +216,7 @@ self.__precacheManifest = [
     "url": "/pings-website/static/media/final.dd2cb557.jpg"
   },
   {
-    "revision": "f569bf1cfd49a7b367a1d4585c3a1d43",
+    "revision": "becf3bf014af7ad2760cf5ba1f0bf494",
     "url": "/pings-website/index.html"
   }
 ];
